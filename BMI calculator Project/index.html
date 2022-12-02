@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="calculator-body">
+        
+        <div id="bmi-body">
+            <h1 align="center">BMI Calculator</h1>
+            <div id="bmi-Display">
+                
+                <p id="display">Your BMI is...</p>
+            </div><br><br>
+            weight: <input id="weight1" type="number" placeholder="kg"><br><br>
+            height: <input id="height1" type="number" placeholder="m"><br><br>
+            <button type="submit" onclick="bmiresult()" id="bmiButton">Calculate</button>
+    </div>
+
+    <div id="feet-meter">
+        <p>if you don't know your height in meter scale, then calculate here:</p>
+        <div id="f-m-calc-body">
+            
+            <p id="displaying-meter">Your height(foot) is converting to meter...</p>
+            foot: <input id="foot" type="number" placeholder="ft"><br><br>
+            <button type="submit" onclick="FtToMeter()" id="FM">calculate</button>
+
+        </div>
+    </div>
+    </div>
+
+    
+
+    <script src="app.js"></script>
+</body>
+</html>

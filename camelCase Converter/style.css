@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(to right, rgb(6, 11, 59),rgb(35, 7, 47));
+    height: 100%;
+    width: 100%;
+}
+/*heading styling*/
+#heading{
+    margin-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#camel-case-convert-body{
+    margin: 200px auto;
+    background-color: white;
+    height: 320px;
+    width: 400px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+#item-center{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+/*styling for input box*/
+#inTxt{
+    height: 30px;
+    width: 200px;
+    font-size: 17px;
+    border: 2px solid;
+    border-radius: 5px;
+    
+}
+/*styling for result display*/
+#result{
+    margin-top: 30px;
+    height: 30px;
+    width: 205px;
+    font-size: 25px;
+    font-family: serif;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    /* padding: 50px; */
+    /* margin: 20px; */
+}
+
+/*styling btnConvert1*/
+#btnConvert1{
+    background-image: linear-gradient(to right, rgb(8, 16, 85),rgb(82, 7, 114));
+    color: white;
+    height: 28px;
+    width: 120px;
+    border-radius: 4px;
+    font-size: 18px;
+    margin: auto 44px;
+}
+
+
+/*styling btnConvert1*/
+#btnClear1{
+    background-image: linear-gradient(to right, rgb(52, 8, 85),rgb(41, 7, 114));
+    color: white;
+    height: 28px;
+    width: 70px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin:  auto 70px;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

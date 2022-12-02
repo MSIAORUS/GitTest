@@ -1,0 +1,274 @@
+.container{
+    background-image: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    margin: 200px auto;
+    height: 470px;
+    width: 300px;
+    border-radius: 20px ;
+    padding: 5px;
+    border: 9px solid rgb(255, 255, 255);
+}
+#heading{
+    text-align: center;
+    color: white;
+}
+#calc-margin{
+    margin: 30px 20px;
+}
+
+#button-body{
+    margin: 10px;
+}
+#inDisplay{
+    background-color: rgb(255, 255, 255);
+    height: 90px;
+    width: 250px;
+    border-radius: 10px;
+    border: 2px solid white;
+    font-size: 30px;
+    font-style: oblique;
+    margin-bottom: 30px;
+}
+
+/* #button-body{
+    margin-top: 5px;
+    background-color: white;
+    height: 300px;
+} */
+
+#idb7{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idb8{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idb9{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+#idbPlus{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+
+#idb4{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idb5{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idb6{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+#idbMinus{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+
+#idb1{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idb2{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idb3{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+#idbMul{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+    text-align: center;
+}
+
+#idb0{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idbPoint{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+
+#idbDivide{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+}
+#idbEqual{
+    margin: 6px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+    background-color: white;
+    color: linear-gradient(to right, rgb(47, 0, 47) , rgb(11, 1, 42));
+    font-size: 30px;
+    font-style: oblique;
+    animation-name: example;
+    animation-duration: 3s;
+}
+
+
+
+@keyframes example {
+    0%   {color: rgb(128, 0, 0);}
+    10%  {color: rgb(146, 149, 0);}
+    20%  {color: rgb(79, 140, 0);}
+    30% {color: rgb(27, 135, 0);}
+    40%   {color: rgb(0, 130, 54);}
+    50%  {color: rgb(0, 126, 141);}
+    60%  {color: rgb(0, 13, 132);}
+    70% {color: rgb(5, 0, 148);}
+    80%   {color: rgb(94, 0, 128);}
+    90%  {color: rgb(122, 0, 131);}
+    100% {color: rgb(145, 0, 48);}
+}
+
+#heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    
+  }
+
+body{
+    background-color: rgb(2, 0, 28);
+}
+
+
+
+ 
+  /* #heading {
+    background-color: rgb(255, 255, 255);
+    animation-name: example;
+    animation-duration: 11s;
+  }
+  
+  @keyframes example {
+    0%   {background-color: rgb(255, 0, 0);}
+    10%  {background-color: rgb(255, 166, 0);}
+    20%  {background-color: rgb(255, 255, 0);}
+    30% {background-color: rgb(47, 255, 0);}
+    40%   {background-color: rgb(0, 255, 106);}
+    50%  {background-color: rgb(0, 229, 255);}
+    60%  {background-color: rgb(33, 55, 255);}
+    70% {background-color: rgb(8, 0, 255);}
+    80%   {background-color: rgb(187, 0, 255);}
+    90%  {background-color: rgb(238, 0, 255);}
+    100% {background-color: rgb(255, 0, 85);}
+  } */
+
+
+  
+
+
+
+
+
+
+
+
